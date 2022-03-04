@@ -1,24 +1,24 @@
 
 const characters=[{
-    img:'Images/chan.jpg',
+    img:'chan.jpg',
     name:'Sinchan Nohara',
     title:'Coolest Kid in The Block',
     description:'Loves: Action Kamen'
 },
 {
-    img:'Images/doremon.png',
+    img:'doremon.png',
     name:'Doremon',
     title:'Robo??? Cat??? ROBOcat!!!',
     description:'Loves: Doracake'
 },
 {
-    img:'Images/jerry.jpg',
+    img:'jerry.jpg',
     name:'Jerry',
     title:'Does all the mischives .',
     description:'Loves: Cheese '
 },
 {
-    img:'Images/tom.png',
+    img:'tom.png',
     name:'Tom',
     title:'The supposedly evil one',
     description:'Loves:to sleep'
